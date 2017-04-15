@@ -2,4 +2,4 @@
 
 ### a day!
 
-![day.png](day)
+![day](day.png)
