@@ -1,2 +1,5 @@
-# pythondersleri
-pythondersleri.com
+# python practices
+
+### a day!
+
+![day.png](day)
